@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restful-middleman.iml" filepath="$PROJECT_DIR$/.idea/modules/restful-middleman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restful-middleman_main.iml" filepath="$PROJECT_DIR$/.idea/modules/restful-middleman_main.iml" group="restful-middleman" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restful-middleman_test.iml" filepath="$PROJECT_DIR$/.idea/modules/restful-middleman_test.iml" group="restful-middleman" />
+    </modules>
+  </component>
+</project>
